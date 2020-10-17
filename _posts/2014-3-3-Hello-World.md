@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: ¡SAMSUNG!
 ---
+## SAMSUNG HISTORY
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## ES EL GUGANTE DE COREA DEL SUR 
+
+La historia de Samsung comienza en 1938, cuando Lee Byung-chul fundó una pequeña empresa comercial. La compañía se ocupaba principalmente de productos locales y comestibles, como frutas, verduras y pescado. Posteriormente, prosperó hasta que estalló la Guerra de Corea.
+
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
