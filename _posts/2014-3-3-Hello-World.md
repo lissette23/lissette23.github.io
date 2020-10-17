@@ -20,6 +20,8 @@ Los orígenes del actual grupo Samsung se remontan al 1 de marzo de 1938. Ese d�
 ## Liderazgo
 Lee Kun-hee anunció un cambio de estrategia que marcaría el futuro de Samsung. A pesar de que su división de electrónica era una de las más rentables, los consumidores internacionales percibían que los productos coreanos tenían menos calidad que los japoneses.
 
+![sam]({{ site.baseurl }}/images/contra.jpg)
+
 
 
 
